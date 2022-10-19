@@ -163,3 +163,10 @@ a {
     border-radius: 8px;
     padding: 8px 28px;
 }
+.footer{
+    background-color: #1F2937;
+    color: white;
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
