@@ -121,12 +121,45 @@ a {
     align-items: center;
     padding: 48PX 176px;
 }
+
 .quote p{
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
     color: #1F2937;
 }
+
 .quote h1{
     margin-left: auto;
+}
+
+.call-to-action{
+    padding: 48PX 176px;
+    color: white;
+}
+
+.container{
+    background-color: #3882F6;
+    padding: 24px 48px;
+    display: flex;
+    border-radius: 8px;
+}
+
+.container div h1{
+    margin: 0px;
+    font-size: large;
+}
+
+.container div p{
+    margin: 0px;
+}
+
+.container button{
+    margin: auto;
+    margin-right: 0px;
+    color: white;
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 8px 28px;
 }
